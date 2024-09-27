@@ -11,7 +11,7 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="true">
+          <option name="title_enabled" value="false">
             <options>
               <option name="title_text" value="IPAS_3_MPI" />
             </options>
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1229,12 +1229,21 @@
             <slidelink slideid="_player.5rGACKr49Nr.6TDpFvw6WwS" displaytext="HALAMAN TUJUAN " expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.6IkqDqhSK3Y" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.5on5Eumnu0d" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.5oyAfaefWEB" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.65kuWdOlnRc" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.6Qi2i8cNqaA" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.5dFyZs18YLG" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.68or86Kni1F" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.65OsyMdO2MK" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.6Xa4Bt08Yi6" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.6cKKEps1gxk" displaytext="Drag and Drop" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.5vaYIHjXNF6" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
             <slidelink slideid="_player.5rGACKr49Nr.5z6wDci6La0" displaytext="HALAMAN MATERI 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.6dO9VPGg6wh" displaytext="1. Benda dibawah yang menghasilkan &#xA;    energi cahaya adalah . . . " expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.6VwGPzmuCW7" displaytext="2. Dibawah ini yang bukan termasuk &#xA;    energi adalah . . . " expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.5YdQJNJLFx3" displaytext="3. Contoh benda yang menghasilkan energi panas adalah . . . " expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.5vMoaHsoVVC" displaytext="4. Lampu, Televis termasuk benda yang &#xA;   dapat di gunakan dengan energi . . . " expand="false" type="slide" />
+            <slidelink slideid="_player.5rGACKr49Nr.5ZrKUCCppd3" displaytext="5. Energi bunyi adalah energi yang dikeluarkan &#xA;    oleh benda-benda yang mengeluarkan . . . " expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
